@@ -1,0 +1,103 @@
+body {
+  font-family: 'Montserrat';
+}
+
+#title {
+  background-color: #9be3de
+
+}
+
+h1 {
+  font-family: 'Lilita One', cursive;;
+  font-size: 3rem;
+  line-height: 1.5;
+  color: #fff;
+}
+
+h2 {
+  font-family: 'Lilita One';
+}
+
+.container {
+  padding: 3% 20% 3% 20%;
+}
+
+.idea-img {
+  width: 60%;
+  padding-top: 1.5rem;
+  transform: rotate(30deg);
+}
+
+/* navbar */
+
+.navbar {
+  position: absolute;
+  margin: auto;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size:2.5rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: 'Montserrat-light';
+}
+
+h3 {
+  font-family: 'Lilita One';
+  font-weight: bold;
+}
+
+p {
+  color: #8f8f8f;
+}
+
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+/* features */
+
+#features {
+  padding: 7% 20%;
+}
+
+
+.feature-box {
+  text-align: center;
+  /* margin: 5%; */
+  padding: 5%;
+}
+
+/* The third section */
+#testimonials {
+  font-family: 'Lilita One';
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #9be3de;
+  color:#fff;
+}
+
+.testimonials-img {
+  width: 20%;
+  border: 100%;
+  margin: 20px;
+}
+
+#press {
+  background-color: #9be3de;
+  padding-bottom: 3%;
+  text-align: center;
+}
+
+.press-logo {
+  width: 15%;
+  margin: 20px 20px 50px;
+}
