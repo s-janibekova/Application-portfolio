@@ -7,8 +7,13 @@ body {
   padding: 7% 15%;
 }
 
+.colored-section {
+    background-color: #9be3de;
+}
+
+
 #title {
-  background-color: #9be3de;
+
   padding-bottom: 250px;
   /* position: relative;
   z-index: 0; */
@@ -93,7 +98,6 @@ h1, h2, h3, h4, h5, h6 {
 #testimonials {
   font-family: 'Lilita One';
   text-align: center;
-  background-color: #9be3de;
   color: #fff;
 }
 
@@ -104,7 +108,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #press {
-  background-color: #9be3de;
   padding-bottom: 3%;
   text-align: center;
 }
@@ -123,9 +126,14 @@ h1, h2, h3, h4, h5, h6 {
   padding: 3% 2%;
 }
 
+ #cta .container {
+   border: 5px dotted rgba(28,110,164,0.14);
+   border-radius: 27px;
+}
+
 #cta {
-  background-color: #9be3de;
   text-align: center;
+
 }
 
 #footer {
